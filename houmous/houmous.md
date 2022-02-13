@@ -4,7 +4,7 @@
 
 Source : https://www.marmiton.org/recettes/recette_houmous-puree-de-pois-chiches_29761.aspx
 
-La masse des pois chiches est 2 à 3 fois plus élevées après hydratation.
+La masse des pois chiches est 2 à 3 fois plus élevée après hydratation.
 
 ## Recette
 
@@ -24,7 +24,8 @@ La masse des pois chiches est 2 à 3 fois plus élevées après hydratation.
 > porter à ébullition, \
 > saler et poivrer à mi-cuisson, \
 > laisser cuire 1 h 30 à 2 h, \
-> égoutter et conserver l’eau de cuisson, \
+> conserver l’eau de cuisson, \
+> égoutter, \
 > réduire en purée, \
 > chauffer à feu doux dans une casserole,
 
@@ -41,7 +42,9 @@ La masse des pois chiches est 2 à 3 fois plus élevées après hydratation.
 
 > piler l’ail au mortier avec l’huile, \
 > ajouter la préparation dans la casserole hors du feu, \
-> saupoudrer le piment
+> saupoudrer le piment \
+> Servir saupoudré de paprika, garni d’olives noires et accompagné de quartiers de citrons. \
+> sans oublier le pain grillé ou le pain libanais !
 
 ## Notes
 
