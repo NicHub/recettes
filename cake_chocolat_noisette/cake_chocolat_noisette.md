@@ -13,7 +13,8 @@ Source : ?
 -    1 cc          poudre à lever
 -    1 pincée      sel
 
-> râper le chocolat grossièrement à l’aide d’un couteau et mélanger avec les autres ingrédients à l’aide d’une cuillère
+> râper le chocolat grossièrement à l’aide d’un couteau, \
+> mélanger avec les autres ingrédients à l’aide d’une cuillère
 
 -    2 dl          crème 25%
 -    2             jaunes d’œufs
@@ -22,8 +23,11 @@ Source : ?
 
 -    2              blancs d’œufs
 
-> battre les blancs en neige, d’abord doucement, puis plus énergiquement, incorporer et mélanger les blancs délicatement, ne pas tourner la spatule, mais prendre la masse par le dessous et la ramener sur le dessus
-> recouvrir le moule de papier sulfurisé, remplir le moule
+> battre les blancs en neige, d’abord doucement, puis plus énergiquement, \
+> incorporer et mélanger les blancs délicatement, \
+> ne pas tourner la spatule, mais prendre la masse par le dessous et la ramener sur le dessus \
+> recouvrir le moule de papier sulfurisé, \
+> remplir le moule \
 > préchauffer le four à 220°C, lorsqu’il est à température, mettre le moule au four, baisser la température à 200°C et vérifier la cuisson après 45 min ou maximum 1 h à l’aide d’une aiguille, elle doit rester sèche
 
 ## Notes
