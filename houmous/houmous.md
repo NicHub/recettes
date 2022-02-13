@@ -1,4 +1,4 @@
-# Houmous
+# Houmous
 
 ## Infos
 
@@ -47,3 +47,4 @@ La masse des pois chiches est 2 à 3 fois plus élevées après hydratation.
 
 —
 
+<img style="width:500px" src="./images/pois-chiches.jpg" />
