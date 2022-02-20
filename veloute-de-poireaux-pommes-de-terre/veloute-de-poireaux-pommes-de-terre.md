@@ -8,17 +8,20 @@ Source : https://www.marmiton.org/recettes/recette_veloute-de-poireaux-pomme-de-
 
 -    1             poireau
 -    1             pomme de terre
--    1             pattate douce
+-    1             patate douce
 -    1             oignon
 -                  poivre
 -                  sel
 -                  beurre
+-    0.25 l        bouillon de poule
 
-> éplucher et couper pomme de terre et pattate douce en dés \
+> éplucher et couper pomme de terre et patate douce en dés \
 > laver et émincer les poireaux \
 > chauffer le beurre \
-> incorporer les poireaux, laissez suer \
-> mouillez avec le bouillon, couvrez et laissez cuire 45 min.
+> incorporer les poireaux, laisser suer \
+> mouiller avec le bouillon \
+> couvrir et cuire 45 min
 
 ## Notes
 
+—
