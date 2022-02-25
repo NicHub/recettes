@@ -1,3 +1,3 @@
 # RECETTES
 
-Tout est dans le titre
+Tout est dans le titre.
