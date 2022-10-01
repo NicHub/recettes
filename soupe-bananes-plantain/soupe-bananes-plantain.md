@@ -19,14 +19,16 @@ Source : https://www.bettybossi.ch/fr/Rezept/ShowRezept/BB_BBZA030115_0013A-40-
 -  1 c.c.        de jus de citron
 -  selon goût    sel, poivre
 
-+  Chauffer l’huile, faire revenir l’oignon, l’ail et le thym.
-+  Ajouter les tomates et les bananes, étuver env. 3 minutes.
-+  Verser le bouillon.
-+  Ajouter la feuille de laurier.
-+  Porter à ébullition, réduire la chaleur, laisser bouillonner doucement la soupe env. 25 min à couvert.
-+  Retirer le laurier.
-+  Mixer finement les bananes avec le liquide.
-+  Ajouter les lanières de poulet et le piment.
-+  Continuer doucement la cuisson env. 5 min à couvert.
-+  Incorporer le jus de citron.
-+  Rectifier l’assaisonnement.
+```
+Chauffer l’huile, faire revenir l’oignon, l’ail et le thym.
+Ajouter les tomates et les bananes, étuver env. 3 minutes.
+Verser le bouillon.
+Ajouter la feuille de laurier.
+Porter à ébullition, réduire la chaleur, laisser bouillonner doucement la soupe env. 25 min à couvert.
+Retirer le laurier.
+Mixer finement les bananes avec le liquide.
+Ajouter les lanières de poulet et le piment.
+Continuer doucement la cuisson env. 5 min à couvert.
+Incorporer le jus de citron.
+Rectifier l’assaisonnement.
+```
