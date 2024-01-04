@@ -13,11 +13,10 @@ La masse des pois chiches est 2 à 3 fois plus élevée après hydratation.
 
 ## Recette
 
-```
+
 - 250 g           pois chiches secs
 -   1 l           eau
 - 1/2 cc          bicarbonate de soude (facultatif — rend les falafels plus moelleux)
-```
 
     + faire tremper 12 h à température ambiante,
     + rincer, puis égoutter dans une passoire

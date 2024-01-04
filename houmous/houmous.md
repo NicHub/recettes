@@ -8,13 +8,16 @@ Voir aussi : https://cuisine.journaldesfemmes.fr/recette/309902-houmous
 
 https://www.youtube.com/watch?v=FlSwXEHa9Vw
 
-La masse des pois chiches est 2 à 3 fois plus élevée après hydratation.
 
 ## Recette
 
--250 g           pois chiches secs
--  1 l           eau
--  1 cs          bicarbonate de soude
+### Variante 1
+
+- 250 g           pois chiches secs
+    + ! La masse des pois chiches est 2 à 3 fois plus élevée après hydratation.
+
+-   1 l           eau
+-   1 cs          bicarbonate de soude
 
     + faire tremper 12 h à température ambiante,
     + rincer, puis égoutter dans une passoire
@@ -34,9 +37,9 @@ La masse des pois chiches est 2 à 3 fois plus élevée après hydratation.
     + réduire en purée,
     + chauffer à feu doux dans une casserole,
 
-- 10 cl          huile tiède
--qqe cl          jus de cuisson
--qqe cl          jus de citron
+-  10 cl          huile tiède
+- qqe cl          jus de cuisson
+- qqe cl          jus de citron
 
     + incorporer l’huile en fouettant,
     + allonger un peu de jus de cuisson et du jus de citron
@@ -55,25 +58,27 @@ La masse des pois chiches est 2 à 3 fois plus élevée après hydratation.
 
 <img style="width:500px" src="./images/pois-chiches.jpg" />
 
-
-
-
-
-
----
+### Variante 2
 
 https://www.youtube.com/watch?v=FlSwXEHa9Vw
 
--500 g pois chiches
--150 g crème de sésame
--50 ml jus de citron
--hâcher
--3 glaçons (pour donner un côté aérien)
+- 500 g pois chiches
+- 150 g crème de sésame
+- 50 ml jus de citron
+- hâcher
+- 3 glaçons (pour donner un côté aérien)
     + incorporer
--1 cs sel
--Incorporer huile d’arachide lentement (faire monter comme une mayonnaise)
+- 1 cs sel
+- Incorporer huile d’arachide lentement (faire monter comme une mayonnaise)
 
 
 ---
 
-Jessica =+ citron confit (à petite dose)
+Jessica => citron confit (à petite dose)
+
+
+Ne pas saler pendant la cuisson car ça empêche une bonne cuisson
+source : https://www.youtube.com/watch?v=SHWI6dKxpzA
+
+Enlever l’écorce après cuisson
+https://www.youtube.com/watch?v=Z4FXnXe5dYI

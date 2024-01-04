@@ -20,7 +20,7 @@ Source : https://www.coop.ch/fr/inspirations-cadeaux/recettes/entree/creme-de-ch
     + y faire suer les échalotes et les champignons
     + ajouter les pommes de terre et étuver brièvement
     + ajouter le bouillon et porter le tout à ébullition
-    + couvrir et laisser mijoter environ 15 min.
+    + couvrir et laisser mijoter environ 15 min
     + ajouter la crème et donner un bouillon
     + mixer le potage
     + saler et poivrer
