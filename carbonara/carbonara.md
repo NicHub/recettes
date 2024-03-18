@@ -1,10 +1,10 @@
-# Carbonara
+# spaghettis carbonara
 
-## Infos
+## infos
 
-    Source : https://www.youtube.com/watch?v=99mmYGh7cZ8
+    source : https://www.youtube.com/watch?v=99mmYGh7cZ8
 
-## Recette
+## recette
 
                     1 l  eau
                    10 g  sel
@@ -17,8 +17,9 @@
                                 -   baisser le feu quand les pâtes
                                     ont commencé à ramollir
                                 -   bien remuer
-                                -   enlever deux minutes au temps de cuisson qui seront
-                                    utilisées lors de la préparation de la sauce
+                                -   enlever deux minutes au temps
+                                    de cuisson qui seront utilisées
+                                    lors de la préparation de la sauce
                                 -   conserver l’eau de cuisson
 
     3 tranches fines de  guanciale
@@ -55,9 +56,10 @@
 
                                 -   préchauffer le four à 50°C
                                 -   faire fondre la graisse pendant 10 min
-                                -   ajouter du pecorino ou des miettes de crouton de pain
+                                -   ajouter du pecorino
+                                    ou des miettes de crouton de pain
 
-    ## Notes
+## notes
 
         le blanc d’œuf aide à obtenir une sauce plus homogène
         mais on peut n’utiliser que le jaune pour un résultat plus riche
