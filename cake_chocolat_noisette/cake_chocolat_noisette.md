@@ -1,10 +1,10 @@
-# Cake au chocolat et aux noisettes
+# cake au chocolat et aux noisettes
 
-## Infos
+## infos
 
--   Source : ?
+-   source : ?
 
-## Recette
+## recette
 
 - 100 g           chocolat noir
 -   2 dl          farine
@@ -32,7 +32,7 @@
     + mettre le moule au four et baisser la température à 200°C
     + vérifier la cuisson après 45 min ou maximum 1 h à l’aide d’une aiguille, elle doit rester sèche
 
-## Notes
+## notes
 
 -   se garde sans problème pendant deux jours
 -   la crème peut être remplacée par du lait

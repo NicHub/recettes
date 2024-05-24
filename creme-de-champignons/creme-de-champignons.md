@@ -1,11 +1,10 @@
-# Crème de champignons
+# crème de champignons
 
-## Infos
+## infos
 
-Source :
-https://www.coop.ch/fr/inspirations-cadeaux/recettes/entree/creme-de-champignons/rc/72/r/18457
+    source : https://www.coop.ch/fr/inspirations-cadeaux/recettes/entree/creme-de-champignons/rc/72/r/18457
 
-## Recette
+## recette
 
                    2 cs  beurre
 
@@ -17,7 +16,7 @@ https://www.coop.ch/fr/inspirations-cadeaux/recettes/entree/creme-de-champignons
                          (bolets, chanterelles
                          et champignons de Paris
                          p. ex.)
-                    2    échalottes ciselées
+                      2  échalottes ciselées
 
                                 -   y faire suer les échalotes
                                     et les champignons

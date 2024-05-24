@@ -63,5 +63,5 @@
 
 ## notes
 
-        le blanc d’œuf aide à obtenir une sauce plus homogène
-        mais on peut n’utiliser que le jaune pour un résultat plus riche
+    le blanc d’œuf aide à obtenir une sauce plus homogène
+    mais on peut n’utiliser que le jaune pour un résultat plus riche

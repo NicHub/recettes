@@ -1,81 +1,80 @@
-# Houmous
+# houmous — variante 1
 
-## Infos
+## infos
 
-Source : https://www.marmiton.org/recettes/recette_houmous-puree-de-pois-chiches_29761.aspx
+    source : https://www.marmiton.org/recettes/recette_houmous-puree-de-pois-chiches_29761.aspx
 
-Voir aussi : https://cuisine.journaldesfemmes.fr/recette/309902-houmous
+    voir aussi :
+            -   https://cuisine.journaldesfemmes.fr/recette/309902-houmous
+            -   https://www.youtube.com/watch?v=FlSwXEHa9Vw
 
-https://www.youtube.com/watch?v=FlSwXEHa9Vw
+    la masse des pois chiches est 2 fois plus élevée après hydratation
 
+## recette
 
-## Recette
+                  200 g  pois chiches secs
+                    2 l  eau
+                 1/2 cc  bicarbonate de soude
 
-### Variante 1
+                                -   faire tremper 12 h à température ambiante,
+                                -   rincer, puis égoutter dans une passoire
+                                -   éplucher (enlever les peaux de chaque pois individuellement)
 
-- 250 g           pois chiches secs
-    + ! La masse des pois chiches est 2 à 3 fois plus élevée après hydratation.
+                   2 dl  eau
+              1 feuille  laurier
+               1 gousse  ail
+                   2 cc  sel
+                   2 cc  poivre
 
--   1 l           eau
--   1 cs          bicarbonate de soude
+                                -   mélanger,
+                                -   porter à ébullition,
+                                -   saler et poivrer à mi-cuisson,
+                                -   laisser cuire 1 h 30 à 2 h,
+                                -   conserver l’eau de cuisson,
+                                -   égoutter,
+                                -   réduire en purée,
+                                -   chauffer à feu doux dans une casserole,
 
-    + faire tremper 12 h à température ambiante,
-    + rincer, puis égoutter dans une passoire
+                  10 cl  huile tiède
+                 qqe cl  jus de cuisson
+                 qqe cl  jus de citron
 
--  2 dl           eau
--  1 feuille      laurier
--  1 gousse       ail
--  2 cc           sel
--  2 cc           poivre
+                                -   incorporer l’huile en fouettant,
+                                -   allonger avec un peu de jus de cuisson et du jus de citron
 
-    + mélanger,
-    + porter à ébullition,
-    + saler et poivrer à mi-cuisson,
-    + laisser cuire 1 h 30 à 2 h,
-    + conserver l’eau de cuisson,
-    + égoutter,
-    + réduire en purée,
-    + chauffer à feu doux dans une casserole,
+              3 gousses  ail
+                   2 cs  huile
+               1 pincée  piment
 
--  10 cl          huile tiède
-- qqe cl          jus de cuisson
-- qqe cl          jus de citron
+                                -   piler l’ail au mortier avec l’huile,
+                                -   ajouter la préparation dans la casserole hors du feu,
+                                -   saupoudrer le piment
+                                -   servir saupoudré de paprika, garni d’olives noires et accompagné de quartiers de citrons.
+                                -   sans oublier le pain grillé ou le pain libanais !
 
-    + incorporer l’huile en fouettant,
-    + allonger un peu de jus de cuisson et du jus de citron
+## notes
 
--  3 gousses      ail
--  2 cs           huile
--  1 pincée       piment
+    Jessica => ajouter du citron confit (à petite dose)
 
-    + piler l’ail au mortier avec l’huile,
-    + ajouter la préparation dans la casserole hors du feu,
-    + saupoudrer le piment
-    + servir saupoudré de paprika, garni d’olives noires et accompagné de quartiers de citrons.
-    + sans oublier le pain grillé ou le pain libanais !
+# houmous — variante 2
 
-## Notes
+## infos
 
-<img style="width:500px" src="./images/pois-chiches.jpg" />
+    source: https://www.youtube.com/watch?v=FlSwXEHa9Vw
 
-### Variante 2
+## recette
 
-https://www.youtube.com/watch?v=FlSwXEHa9Vw
-
-- 500 g pois chiches
-- 150 g crème de sésame
-- 50 ml jus de citron
-- hâcher
-- 3 glaçons (pour donner un côté aérien)
+                  500 g  pois chiches
+                  150 g  crème de sésame
+                  50 ml  jus de citron
+                hâcher
+                3 glaçons (pour donner un côté aérien)
     + incorporer
 - 1 cs sel
 - Incorporer huile d’arachide lentement (faire monter comme une mayonnaise)
 
 
 ---
-
-Jessica => citron confit (à petite dose)
-
 
 Ne pas saler pendant la cuisson car ça empêche une bonne cuisson
 source : https://www.youtube.com/watch?v=SHWI6dKxpzA

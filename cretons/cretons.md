@@ -2,16 +2,14 @@
 
 ## infos
 
-    source :
-    https://www.coop.ch/fr/inspirations-cadeaux/recettes/entree/creme-de-champignons/rc/72/r/18457
+    source : https://www.coop.ch/fr/inspirations-cadeaux/recettes/entree/creme-de-champignons/rc/72/r/18457
 
 ## recette
 
-                   1     oignon moyen
+                      1  oignon moyen
                    2 cc  persil
 
-                                -   hacher l’oignon
-                                    et le persil
+                                -   hacher
 
                   500 g  veau ou bœuf haché
                 1 boîte
