@@ -4,57 +4,47 @@
 
 Sources :
 
--   https://www.bettybossi.ch/fr/Rezept/ShowRezept/BB_NSXX040301_0056A-40-fr
 -   https://youtu.be/VW0csI5j1n0
--   https://toriavey.com/falafel/
 
-
-La masse des pois chiches est 2 à 3 fois plus élevée après hydratation.
+La masse des pois chiches est 2 fois plus élevée après hydratation.
 
 ## Recette
 
-
-- 250 g           pois chiches secs
--   1 l           eau
-- 1/2 cc          bicarbonate de soude (facultatif — rend les falafels plus moelleux)
+- 200 g           pois chiches secs
+-   2 l           eau
+- 1/2 cc          bicarbonate de soude
 
     + faire tremper 12 h à température ambiante,
     + rincer, puis égoutter dans une passoire
 
--   2 dl          eau
--   1 feuille     laurier
--   1 gousse      ail
--   2 cc          sel
+-   2 gousses     ail
+-   1             oignon
+
+    + hacher au hachoir électrique
+
+- qqe feuilles    persil plat
+- qqe feuilles    coriandre
+- qqe             piments
+
+    + ajouter,
+    + hacher au hachoir électrique
+
+-   1             citron
+
+    +             presser,
+    +             incorporer
+
+-                 pois chiches
+
+    +             incorporer
+
+-   1 cc          sel
+- 1/2 cc          carvi
 -   2 cc          poivre
+- 100 g           farine de pois chiches
 
-    + mélanger,
-    + porter à ébullition,
-    + saler et poivrer à mi-cuisson,
-    + laisser cuire 1 h 30 à 2 h,
-    + conserver l’eau de cuisson,
-    + égoutter,
-    + réduire en purée,
-    + chauffer à feu doux dans une casserole,
-
--  10 cl          huile tiède
-- qqe cl          jus de cuisson
-- qqe cl          jus de citron
-
-    + incorporer l’huile en fouettant,
-    + allonger un peu de jus de cuisson et du jus de citron
-
--   3 gousses     ail
--   2 cs          huile
--   1 pincée      piment
-
-    + piler l’ail au mortier avec l’huile,
-    + ajouter la préparation dans la casserole hors du feu,
-    + saupoudrer le piment
-    + Servir saupoudré de paprika, garni d’olives noires et accompagné de quartiers de citrons.
-    + sans oublier le pain grillé ou le pain libanais !
+    + incorporer,
 
 ## Notes
 
-—
-
-<img style="width:500px" src="./images/pois-chiches.jpg" />
+Le bicarbonate de soude est facultatif, il rend les falafels plus moelleux.

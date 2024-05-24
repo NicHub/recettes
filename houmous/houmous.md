@@ -22,11 +22,11 @@ https://www.youtube.com/watch?v=FlSwXEHa9Vw
     + faire tremper 12 h à température ambiante,
     + rincer, puis égoutter dans une passoire
 
--  2 dl          eau
--  1 feuille     laurier
--  1 gousse      ail
--  2 cc          sel
--  2 cc          poivre
+-  2 dl           eau
+-  1 feuille      laurier
+-  1 gousse       ail
+-  2 cc           sel
+-  2 cc           poivre
 
     + mélanger,
     + porter à ébullition,
@@ -44,9 +44,9 @@ https://www.youtube.com/watch?v=FlSwXEHa9Vw
     + incorporer l’huile en fouettant,
     + allonger un peu de jus de cuisson et du jus de citron
 
--  3 gousses     ail
--  2 cs          huile
--  1 pincée      piment
+-  3 gousses      ail
+-  2 cs           huile
+-  1 pincée       piment
 
     + piler l’ail au mortier avec l’huile,
     + ajouter la préparation dans la casserole hors du feu,
