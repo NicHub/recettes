@@ -2,9 +2,13 @@
 
 ## infos
 
-    source : https://www.youtube.com/watch?v=99mmYGh7cZ8
+    sources :
+        -   https://www.youtube.com/shorts/GyfDbjI9uW4
+        -   https://www.youtube.com/watch?v=99mmYGh7cZ8
 
-    à voir aussi : https://www.youtube.com/watch?v=DfpsdE2LOoI
+    à voir aussi :
+        -   https://www.youtube.com/watch?v=DfpsdE2LOoI
+        -   https://www.youtube.com/shorts/bSHG8wrrcbs
 
 ## recette
 
