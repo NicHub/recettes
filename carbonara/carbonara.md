@@ -9,6 +9,7 @@
     à voir aussi :
         -   https://www.youtube.com/watch?v=DfpsdE2LOoI
         -   https://www.youtube.com/shorts/bSHG8wrrcbs
+        -   https://www.youtube.com/watch?v=LSYEnH5fGfk
 
 ## recette
 

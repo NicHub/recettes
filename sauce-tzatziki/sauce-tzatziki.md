@@ -16,7 +16,7 @@
                                 -   mélanger
                                 -   égouter au moins 1 heure dans une passoire
 
-                 500 ml  yogurt grec
+                 500 ml  yogourt grec
                                 -   mélanger
 
               3 gousses  ail
@@ -32,4 +32,3 @@
                          sel
                          poivre
                                 -   incorporer
-
