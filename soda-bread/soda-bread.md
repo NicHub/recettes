@@ -25,15 +25,14 @@
 
                         graines de sésame
                                 -   saupoudrer
+                                -   huiler légèrement une plaque à gâteau
+                                    et y déposer la boule de pâte
                                 -   cuire au four 30 min à 175°C
 
 ## notes
 
-    la croix est plus facile à faire si le couteau est huilé
-
-    huiler légèrement le fond de la plaque pour limiter l’adhésion du pain
-
-    on peut remplacer le babeurre acidulé par un mélange de lait et de jus de citron
+    -   huiler le couteau pour faciliter la découpe de la croix
+    -   on peut remplacer le babeurre acidulé par un mélange de lait et de jus de citron
 
 
 <!--
