@@ -3,7 +3,7 @@
 ## infos
 
     -  spécialité irlandaise appelée Soda Bread ou Farl
-    -  source : Nikola Tomic
+    -  source : Nikola Tomić
 
 ## recette
 
