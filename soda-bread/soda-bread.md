@@ -18,6 +18,7 @@
                                 -   faire une fontaine
 
                 1 tasse babeurre acidulé
+                                -   bien remuer le berlingot avant de verser
                                 -   incorporer
                                 -   mélanger sans pétrir
                                 -   faire une boule
@@ -27,6 +28,7 @@
                                 -   saupoudrer
                                 -   huiler légèrement une plaque à gâteau
                                     et y déposer la boule de pâte
+                                    (à essayer : fariner au lieu de huiler)
                                 -   cuire au four 30 min à 175°C
 
 ## notes
