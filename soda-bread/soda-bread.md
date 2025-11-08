@@ -2,30 +2,30 @@
 
 ## infos
 
-    -  spécialité irlandaise appelée Soda Bread ou Farl
-    -  source : Nikola Tomić
+    -   spécialité irlandaise appelée Soda Bread ou Farl
+    -   source : Nikola Tomić
 
 ## recette
 
-                            -   mettre la grille du four tout en bas
-                                préchauffer le four haut+bas à 175°C
+                                -   mettre la grille du four tout en bas
+                                    préchauffer le four haut+bas à 175°C
 
-            1 tasse farine blanche
-            1 tasse farine épeautre
-               1 cc sel
-               1 cc bicarbonate de soude
-                            -   bien mélanger dans un grand bol
-                            -   faire une fontaine
+                1 tasse farine blanche
+                1 tasse farine épeautre
+                   1 cc sel
+                   1 cc bicarbonate de soude
+                                -   bien mélanger dans un grand bol
+                                -   faire une fontaine
 
-            1 tasse babeurre acidulé
-                            -   incorporer
-                            -   mélanger sans pétrir
-                            -   faire une boule
-                            -   faire une croix sur la boule en disant amen
+                1 tasse babeurre acidulé
+                                -   incorporer
+                                -   mélanger sans pétrir
+                                -   faire une boule
+                                -   faire une croix sur la boule en disant amen
 
-                    graines de sésame
-                            -   saupoudrer
-                            -   cuire au four ~30 min à 175°C
+                        graines de sésame
+                                -   saupoudrer
+                                -   cuire au four 30 min à 175°C
 
 ## notes
 
