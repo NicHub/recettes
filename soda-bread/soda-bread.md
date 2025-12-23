@@ -64,3 +64,15 @@ Babeurre acidulé · Nature https://www.migros.ch/fr/product/204555000000
        Et des fois je mets des cranberries dedans. Ça fait encore plus irlandais..
 
  -->
+
+
+<!--
+
+J’ai une nouvelle variante de pain :
+1 tasse de farine bise
+1 tasse de farine blanche
+2-3 cuillères à soupe de yogourt
+Le reste normal.
+À cuire un peu plus longtemps
+
+  -->
