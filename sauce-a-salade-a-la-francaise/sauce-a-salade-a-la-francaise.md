@@ -60,3 +60,15 @@ Sauce à salade à calories réduites aux herbes
 ## À voir aussi
 
 -   https://www.rts.ch/play/tv/a-bon-entendeur/video/en-suisse-on-raffole-de-la-french-dressing?urn=urn:rts:video:6890670
+
+## Recette chef Grégoire (vidéo rts.ch)
+
+1 jaune d’œuf
+moutarde
+sel
+poivre
+échalotte émincées
+bouillon de poule dilué dans de l’eau
+vin blanc
+1 vinaigre
+3 huile
